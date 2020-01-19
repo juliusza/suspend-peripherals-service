@@ -26,7 +26,7 @@ I have no choice but to write my own service that gets notified by windows power
 
 # What else
 
-I have to use hidden window to capture windows sleep and resume events as described in MSDN
-I'll run a timer to re-open the COM3 port in case the USB relay board gets unpluged
-Then also we want to turn power on when service starts and turn it off upon service shutdown
-Success!
+* I have to use hidden window to capture windows sleep and resume events as described in MSDN
+* I'll run a timer to re-open the COM3 port in case the USB relay board gets unpluged
+* Then also we want to turn power on when service starts and turn it off upon service shutdown
+* Success!
