@@ -1,0 +1,13 @@
+﻿Installing assembly 'F:\Work\SuspendPeripherals\SuspendPeripherals\bin\Debug\SuspendPeripherals.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Work\SuspendPeripherals\SuspendPeripherals\bin\Debug\SuspendPeripherals.InstallLog
+   assemblypath = F:\Work\SuspendPeripherals\SuspendPeripherals\bin\Debug\SuspendPeripherals.exe
+Installing service SuspendPeripheralsService...
+Service SuspendPeripheralsService has been successfully installed.
+Creating EventLog source SuspendPeripheralsService in log Application...
+Committing assembly 'F:\Work\SuspendPeripherals\SuspendPeripherals\bin\Debug\SuspendPeripherals.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Work\SuspendPeripherals\SuspendPeripherals\bin\Debug\SuspendPeripherals.InstallLog
+   assemblypath = F:\Work\SuspendPeripherals\SuspendPeripherals\bin\Debug\SuspendPeripherals.exe

@@ -1,0 +1,9 @@
+F:\Work\SuspendPeripherals\SuspendPeripherals\bin\Debug\SuspendPeripherals.exe.config
+F:\Work\SuspendPeripherals\SuspendPeripherals\bin\Debug\SuspendPeripherals.exe
+F:\Work\SuspendPeripherals\SuspendPeripherals\bin\Debug\SuspendPeripherals.pdb
+F:\Work\SuspendPeripherals\SuspendPeripherals\obj\Debug\SuspendPeripherals.csprojAssemblyReference.cache
+F:\Work\SuspendPeripherals\SuspendPeripherals\obj\Debug\SuspendPeripherals.exe
+F:\Work\SuspendPeripherals\SuspendPeripherals\obj\Debug\SuspendPeripherals.pdb
+F:\Work\SuspendPeripherals\SuspendPeripherals\obj\Debug\SuspendPeripherals.ProjectInstaller.resources
+F:\Work\SuspendPeripherals\SuspendPeripherals\obj\Debug\SuspendPeripherals.Service1.resources
+F:\Work\SuspendPeripherals\SuspendPeripherals\obj\Debug\SuspendPeripherals.csproj.GenerateResource.cache
