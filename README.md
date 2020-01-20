@@ -34,7 +34,8 @@ I have no choice but to write my own service that gets notified by windows power
 * To handle high currents (laser priter) I will use 2 relays per wire. I will not know which one is the phase wire, so better to disconnect both just to be safe.
 
 # Is there a commercial solution?
-YES!
+YES! Power-Saving Power Outlet Strip
+
 https://www.amazon.co.uk/HQ-IEL-ES04HQ-PC-Power-Saving-Outlet/dp/B002XO4MPA
 
 I had one of these. It measures current on a certain outlet and then is able to disconnect a relay when power falls beyond a certain threshold. Why this wasn't great:
