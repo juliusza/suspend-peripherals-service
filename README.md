@@ -5,16 +5,15 @@ Windows C# service that detects sleep and hibernation events and writes commands
 
 # What is this?
 
-I've got a bunch of devices connected to my home dektop PC: Display, Printer, Speakers. They all draw some amount of power, even on standby. The winner here are 5.1 Creative speakers - they consumer around 15W of my precious electricity. 
+I've got a bunch of devices connected to my home desktop PC: Display, Printer, Speakers. They all draw some amount of power, even on standby. The winner here are 5.1 Creative speakers - they consumer around 15W of my precious electricity. 
 
 
-I've also got this USB relay board, that I've bought 10 years ago.
+I've also found this USB relay board, that I've bought 10 years ago.
 
 ![USB relay board](/usb_relay_board.jpeg)
 
 
 It wasn't easy to get it working, because the instructions and the driver are long gone. Luckily Windows 10 recognizes FT232BL chip as a USB serial port controller. Also I've found the correct baud rate (which is 2400) in an old ebay message from the seller.
-
 
 Now I can use putty to send command over to COM port. Certain symbols enable and disable the relays. E.g. typing "a" would connect relay num1 and "i" would disconnect it.
 
@@ -30,5 +29,5 @@ I have no choice but to write my own service that gets notified by windows power
 * I'll run a timer to re-open the COM3 port in case the USB relay board gets unpluged
 * Then also we want to turn power on when service starts and turn it off upon service shutdown
 * I havent done C# since university 10 years ago, please don't hate me
-* You can't just run service. It needs to be installed and managed via Window services thingie
-* Success!
+* Can't just run service to debug. It needs to be installed and managed via Window services thingie
+* Success! Now just need a proper enclosure to house the PCB and connect 220V power strip to the relays.
