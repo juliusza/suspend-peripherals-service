@@ -31,3 +31,4 @@ I have no choice but to write my own service that gets notified by windows power
 * I havent done C# since university 10 years ago, please don't hate me
 * Can't just run service to debug. It needs to be installed and managed via Window services thingie
 * Success! Now just need a proper enclosure to house the PCB and connect 220V power strip to the relays.
+* To handle high currents (laser priter) I will use 2 relays per wire. I will not know which one is the phase wire, so better to disconnect both just to be safe.
