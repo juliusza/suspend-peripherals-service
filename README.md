@@ -5,7 +5,7 @@ Windows C# service that detects sleep and hibernation events and writes commands
 
 # What is this?
 
-I've got a bunch of devices connected to my home desktop PC: Display, Printer, Speakers. They all draw some amount of power, even on standby. The winner here are 5.1 Creative speakers - they consumer around 15W of my precious electricity. 
+I've got a bunch of devices connected to my home desktop PC: Display, Printer, Speakers. They all draw some amount of power, even on standby. The winner here are 5.1 Creative speakers - they consume around 15W of my precious electricity. 
 
 
 I've also found this USB relay board, that I've bought 10 years ago.
